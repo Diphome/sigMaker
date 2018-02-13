@@ -5,6 +5,7 @@ This script is made to help you craft AoB signatures, it was made in python.
 For the following cases, I will use those two signatures :
 
 8C DB 60 00 00 00 83 EC 0C C7 05 58
+
 8D B7 00 00 00 00 83 EC 0C C7 05 58
 
 sigMaker.py :
